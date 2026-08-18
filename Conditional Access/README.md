@@ -15,10 +15,10 @@ Objectives:
 Policies Implemented:
 - Block Android if High Risk
  - Prevent access from Android devices when sign-in risk is high.
+
 ![Uploading Block Android if High Risk.png…]()
+
 
 
 - Insider Risk
   - Enforce MFA and session controls for internal users while excluding break-glass and test accounts.
-
-![Uploading Insider Risk Conditional Access.png…]()
