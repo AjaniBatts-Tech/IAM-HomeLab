@@ -6,7 +6,8 @@ Overview
 - Each group below represents a real-world IAM pattern used in Microsoft Entra ID.
 
 My Current Groups:
-<img width="1920" height="1200" alt="All Groups" src="https://github.com/user-attachments/assets/31e0ae16-620e-474b-b322-2d51e391f43c" />
+<img width="1920" height="1200" alt="All Groups" src="https://github.com/user-attachments/assets/e3679703-5892-471e-834e-29f57eb01a55" />
+
 
 - App Access:
   - Groups used to assign access to specific applications
@@ -30,9 +31,6 @@ My Current Groups:
 
 - Sales:
   - Department group for Sales users.
-
-- Texas Windows Devices
-  - Device-based group containing Windows devices located in Texas.
 
 - Whole Company
   - A broad group containing all standard users.
