@@ -19,4 +19,4 @@ Policies Implemented:
 
 - Insider Risk
   - Enforce MFA and session controls for internal users while excluding break-glass and test accounts.
-<img width="1920" height="1200" alt="Insider Risk Conditional Access" src="https://github.com/user-attachments/assets/1b20f047-9d08-4f39-b384-fda4684510aa" />
+<img width="1920" height="1200" alt="Insider Risk Conditional Access" src="https://github.com/user-attachments/assets/5cba53f2-8428-4ba3-890d-8a487ba611ef" />
